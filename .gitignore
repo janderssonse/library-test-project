@@ -1,0 +1,15 @@
+generated-java
+*.iml
+
+out/
+gradlew.bat
+
+**/build
+
+*.log
+*.swp
+.gradle
+schema
+
+.idea/*
+
